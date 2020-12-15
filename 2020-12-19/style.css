@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+}
+.pos{
+    width: calc(100%-50px);
+    height: 200px;
+    background-color: #eee;
+    box-shadow: #dfdfdf 0px 0px 15px 20px inset;
+    margin: 50px;
+    border: 1px solid
+}
+.box{
+    width: 70px;
+    height: 70px;
+    background-color: #225;    
+}
+
